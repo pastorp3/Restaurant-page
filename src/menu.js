@@ -1,9 +1,9 @@
-import img_1 from './images/tacos.png';
-import img_2 from './images/taco-bisteck.png';
-import img_3 from './images/taco-chorizo.png';
-import img_4 from './images/taco-cabeza.png';
-import img_5 from './images/taco-barbacoa.png';
-import img_6 from './images/taco-lengua.png';
+import img_1 from './images/tacos.png'
+import img_2 from './images/taco-bisteck.png'
+import img_3 from './images/taco-chorizo.png'
+import img_4 from './images/taco-cabeza.png'
+import img_5 from './images/taco-barbacoa.png'
+import img_6 from './images/taco-lengua.png'
 
 
 const menu = () => {
