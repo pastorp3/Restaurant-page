@@ -1,3 +1,5 @@
+/* eslint-disable brace-style, padded-blocks */
+
 const contact = () =>
 {
   const container = document.getElementById('body');
@@ -10,7 +12,7 @@ const contact = () =>
   menu.appendChild(text);
 
   h1.textContent = 'Contact';
-  text.innerHTML ='<p>Location: Mexico, Morelia , Michoacan </p><p> Phone: 4434041612 \n </p><p>Email: tacosjose@gmail.com</p>';
+  text.innerHTML = '<p>Location: Mexico, Morelia , Michoacan </p><p> Phone: 4434041612 \n </p><p>Email: tacosjose@gmail.com</p>';
 
 };
 
