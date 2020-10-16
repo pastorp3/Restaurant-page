@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/pastorp3/Restaurant-page#readme",
   "devDependencies": {
+    "file-loader": "^6.1.1",
     "webpack": "^5.1.2",
     "webpack-cli": "^4.0.0"
   }
