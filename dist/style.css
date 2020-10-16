@@ -1,0 +1,19 @@
+.link {
+	margin: 10px;
+	font-weight: 700;
+}
+
+.nav {
+	border-bottom: 1px solid black;
+	padding-bottom: 5px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+
+}
