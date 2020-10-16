@@ -42,9 +42,6 @@ const menu = () => {
 	const text_taco5 = document.createElement('span');
 	const text_taco6 = document.createElement('span');
 
-
-
-
 	container.appendChild(menu);
 	menu.appendChild(text);
 	menu.appendChild(flexbox);
@@ -81,7 +78,6 @@ const menu = () => {
 	taco6.appendChild(newline6);
 	taco6.appendChild(text_taco6);
 
-
 	text.setAttribute('class','center-text');
 	flexbox.setAttribute('class','flex container-align');
 	flexbox2.setAttribute('class','flex container-align');
@@ -111,7 +107,6 @@ const menu = () => {
 	text_taco4.textContent = "Tacos de Cabeza";
 	text_taco5.textContent = "Tacos de Barbacoa";
 	text_taco6.textContent = "Tacos de Lengua";
-
 
 }
 
