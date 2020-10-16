@@ -3,4 +3,4 @@ const clear = () => {
   parent.removeChild(parent.lastElementChild);
 };
 
-export default  clear ;
+export default clear;
