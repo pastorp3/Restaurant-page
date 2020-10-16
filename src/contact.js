@@ -1,14 +1,18 @@
 const contact = () => {
 		const container = document.getElementById("body");
 	const menu = document.createElement('div');
-	const text = document.createElement('h1');
+	const h1 = document.createElement('h1');
+	const text = document.createElement('div');
+	
 
 	container.appendChild(menu);
+	menu.appendChild(h1);
 	menu.appendChild(text);
 
-	text.textContent = "Contact";
+	h1.textContent = "Contact";
+	text.innerHTML = "<p>Location: Mexico, Morelia , Michoacan </p><p> Phone: 4434041612 \n </p><p>Email: tacosjose@gmail.com</p>"
 
-	text.setAttribute('class','center-text');
+	
 }
 
 export { contact }
