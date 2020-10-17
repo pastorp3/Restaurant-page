@@ -4,7 +4,7 @@
 
 > The idea of this project is to create the entire page content using JavaScript and modules.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://www.eluniversal.com.mx/sites/default/files/2019/02/11/tacos.jpg)
 
 All the functionality and assets presented in the page are generated using JavaScript modules and DOM manipulation. All the files are bundled together using webpack with loaders for image compression and css incorporation.
 
@@ -22,10 +22,12 @@ All the functionality and assets presented in the page are generated using JavaS
 ### Loacl Copy
 
 Clone the repo with:
+
 ``
 git clone https://github.com/pastorp3/Restaurant-page.git
 ``
-<br>
+
+
 Open dist folder and run index.html in your browser
 
 
