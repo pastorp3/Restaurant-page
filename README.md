@@ -25,6 +25,7 @@ Clone the repo with:
 ``
 git clone https://github.com/pastorp3/Restaurant-page.git
 ``
+<br>
 Open dist folder and run index.html in your browser
 
 
