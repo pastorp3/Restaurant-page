@@ -1,3 +1,5 @@
+/* eslint-disable brace-style, padded-blocks */
+
 import mainImg from './images/menu.jpeg';
 
 const home = () =>
@@ -23,7 +25,6 @@ const home = () =>
 
   h1.textContent = 'Welcome to Tacos Jose';
   h2.textContent = 'Check our menu in menu page';
-
 };
 
-export default home; 
+export default home;

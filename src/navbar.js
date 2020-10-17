@@ -1,5 +1,5 @@
 import home from './home'
-import { menu } from './menu'
+import menu from './menu'
 import contact from './contact'
 import clear  from './clear'
 
