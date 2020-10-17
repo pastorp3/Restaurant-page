@@ -1,3 +1,3 @@
-import navbar  from './navbar';
+import navbar from './navbar';
 
 navbar();
