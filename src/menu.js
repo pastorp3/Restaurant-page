@@ -1,7 +1,7 @@
 /* eslint-disable brace-style, padded-blocks */
 
 
-import Img1 from './images/tacos.png'
+import Img1 from './images/tacos.png';
 import Img2 from './images/taco-bisteck.png';
 import Img3 from './images/taco-chorizo.png';
 import Img4 from './images/taco-cabeza.png';

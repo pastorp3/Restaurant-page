@@ -31,11 +31,11 @@ const navbar = () => {
   link2.addEventListener('click', () => {
     clear();
     menu();
-  })
+  });
   link3.addEventListener('click', () => {
     clear();
     contact();
-  })
+  });
 };
 
-export { navbar };
+export default navbar;
