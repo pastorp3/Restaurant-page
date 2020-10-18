@@ -27,9 +27,14 @@ Clone the repo with:
 git clone https://github.com/pastorp3/Restaurant-page.git
 ``
 
-
 Open dist folder and run index.html in your browser
 
+In case that you want to edit it, add your changes and the in ther terminal use the next command:
+
+``
+npx webpack
+``
+Then open the file index.html in the dist folder
 
 ## Authors
 
