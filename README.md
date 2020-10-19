@@ -29,7 +29,7 @@ git clone https://github.com/pastorp3/Restaurant-page.git
 
 Open dist folder and run index.html in your browser
 
-In case that you want to edit it, add your changes and  in ther terminal use the next command:
+In case that you want to edit it, add your changes and  in the terminal use the next command:
 
 
 ``
