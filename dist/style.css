@@ -1,0 +1,35 @@
+.link {
+	margin: 10px;
+	font-weight: 700;
+}
+
+.nav {
+	border-bottom: 1px solid black;
+	padding-bottom: 5px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30px;
+	margin-top: 10px;
+
+}
+
+.menu-img {
+	width: 300px;
+	height: 250px;
+}
+
+.container-align {
+	padding: 0 50px 0 50px;
+}
+
+.cover-img {
+	width: 100%;
+	height: 400px;
+}
